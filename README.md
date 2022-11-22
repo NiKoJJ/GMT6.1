@@ -19,3 +19,23 @@ chapter 4 脚本编程
 
 chapter 5 绘制线段和多边形
 
+Linux Ubuntu版本
+
+
+
+常用命令：
+
+- 查询州代码 、国家代码、区域代码：https://docs.gmt-china.org/latest/dataset/dcw/
+
+```shell
+gmt coast -E+L  # 查询国家代码
+
+gmt coast -E+L | grep CN  # 进一步查询国家内的省份代码
+```
+
+- 常用绘图参数 
+
+```shell
+gmt coast -JM12c -R0/360/-90/90  -W1/0.5p -A1000
+```
+
