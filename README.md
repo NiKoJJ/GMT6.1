@@ -13,15 +13,15 @@
 
 - Winsows下：Batch脚本
 
-​	chapter 1 命令初探
+  chapter 1 命令初探
 
-​	chapter 2 绘制底图
+  chapter 2 绘制底图
 
-​	chapter 3 图形示例
+  chapter 3 图形示例
 
-​	chapter 4 脚本编程
+  chapter 4 脚本编程
 
-​	chapter 5 绘制线段和多边形
+  chapter 5 绘制线段和多边形
 
 - Linux下：bash脚本 
 
