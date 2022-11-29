@@ -48,7 +48,7 @@ gmt coast -E+L | grep CN  # 进一步查询国家内的省份代码
 - 常用绘图参数 
 
 ```shell
-gmt coast -JM12c -R0/360/-90/90  -W1/0.5p -A1000 -BWsen
+gmt coast -JM12c -R0/360/-90/90 -Bg -W1/0.5p -A1000 -BWsen
 ```
 
 
